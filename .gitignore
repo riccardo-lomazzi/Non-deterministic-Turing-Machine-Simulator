@@ -1,0 +1,9 @@
+*.cbp
+massif.*.*
+exe
+*.depend
+*.layout
+bin
+doxygen
+obj
+
