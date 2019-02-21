@@ -42,4 +42,4 @@ The tape is considered infinite in both directions, so there are blank/empty cel
 
 ### Why?
 
-The program was the closing assignment of an Information Theory course at IT Engineering of Politecnico di Milano.
+The program was the final assignment of an Information Theory course of IT Engineering at Politecnico di Milano.
